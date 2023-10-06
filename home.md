@@ -15,7 +15,7 @@ I am a PhD student in the Department of Mathematics at the University of Surrey.
 - How topological properties of boundary data plays a role in local minimisation of functionals.
 - The impact of incompressibility type constraints on the minimisation of functionals and how this transforms convex to polyconvex problems.
 
-Further details about some of my current work are available to read [here](/assets/confirmation.pdf).
+Further details about some of my current work are available to read [here](/assets/FURBER_Confirmation_Report.pdf).
 
 Below are some recent presentations of my research, along with a list of academic and funding awards that I have recieved.
 

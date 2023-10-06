@@ -10,10 +10,9 @@ redirect_from:
 
 #### About Me
 
-I am a PhD student in the Department of Mathematics at the University of Surrey. I am currently doing research in the Calculus of Variations, in particular with application to non-linear elasticity. My main research interests include:
-- Minimisation of the Dirichlet Energy functional and other similar integral functionals that have polyconvex integrands with respect to the gradient.
-- How topological properties of boundary data plays a role in local minimisation of functionals.
-- The impact of incompressibility type constraints on the minimisation of functionals and how this transforms convex to polyconvex problems.
+I am a PhD student in the School of Mathematics and Physics at the University of Surrey. I am currently doing research into the movements of badgers. My main research interests include:
+- Understanding the movement of badgers through a variety of mathematical tools.
+- Have a brief understanding into how this can affect the transmission of bTB. 
 
 Further details about some of my current work are available to read [here](/assets/FURBER_Confirmation_Report.pdf).
 
@@ -21,6 +20,8 @@ Below are some recent presentations of my research, along with a list of academi
 
 #### Presentations
 
+- Invited to the Isaac Newton Institute to particpate in the programme the Mathematics of Movement (MMV) (08/2023).
+- Summer School on the Mathematics of Movement (MMV), Isaac Newton Institute (07/2023).
 - SIAM Student Chapter Conference, Oxford, [Poster]({{ site.baseurl }}/poster1) (06/2023).
 - PGR Student Seminar, Surrey, [Talk](/assets/seminar.pdf) (05/2023).
 - Internal Student Conference, Surrey, [Poster]({{ site.baseurl }}/poster1) (03/2023).

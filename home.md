@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-feature_image: "https://elliottsullingefarrall.github.io/_/assets/cover1.webp"
+feature_image: "https://j-furber.github.io/_/assets/cover1.webp"
 redirect_from:
   - /
 ---
@@ -28,9 +28,4 @@ Below are some recent presentations of my research, along with a list of academi
 
 #### Awards
 
-- EPSRC Studentship for project entitled 'Topics in the multi-dimensional calculus of variations' (2021).
-- Stephen Gourley Prize for excellent final year project (2021).
-- Third Year Departmental Prize for the best performance in Level 6 (2020).
-- Second Year Departmental Prize for the best performance in Level 5 (2018).
-- LMS Undergraudate Research Bursary with department matched funding for project entitled 'Bifurcations and dynamics in circle maps derived from 'threshold' dynamical systems' (2018).
-- First Year Departmental Prize for the best performance in Level 4 (2017).
+- 2022 Best PGR

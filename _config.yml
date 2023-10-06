@@ -47,10 +47,10 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 7. Site settings
 encoding: utf-8 
 lang: en-GB 
-title: "Elliott Sullinge-Farrall"
+title: "Jessica Furber"
 description: "Personal Website"
-repo: "https://github.com/ElliottSullingeFarrall/_"
-email: "elliott.chalford@gmail.com"
+repo: "https://github.com/J-Furber/_"
+email: "jfurber23@gmail.com"
 
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
@@ -62,13 +62,13 @@ navigation_header:
   url: experience/
 
 # navigation_footer:
-# - title: Created by Elliott Sullinge-Farrall
-#   url: https://elliottsullingefarrall.github.io/_
+# - title: Created by Jessica Furber
+#   url: https://j-furber.github.io/_
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  LinkedIn: https://www.linkedin.com/in/elliott-sullinge-farrall-b65005144/
-  GitHub: https://github.com/ElliottSullingeFarrall
-  link: https://elliottsullingefarrall.github.io/_
+  LinkedIn: https://www.linkedin.com/in/jessica-furber/
+  GitHub: https://github.com/JFurber
+  link: https://j-furber.github.io/_
 
 # Load custom fonts from fonts.google.com etc
 #

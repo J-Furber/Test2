@@ -1,4 +1,5 @@
 # remote_theme: daviddarnes/alembic@main
+theme: jekyll-theme-cayman
 
 # Site configuration
 # 1. Files excluded from Jekyll builds
@@ -21,7 +22,7 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
-- alembic-jekyll-theme.gemspec
+# - alembic-jekyll-theme.gemspec
 - .jekyll-cache
 
 # 2. Installed Gems
@@ -51,7 +52,7 @@ title: "Jessica Furber"
 description: "Personal Website"
 repo: "https://github.com/J-Furber/_"
 email: "jfurber23@gmail.com"
-theme: jekyll-theme-cayman
+
 
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 

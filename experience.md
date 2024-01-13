@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-feature_image: "https://J-Furber.github.io/_/assets/cover1.webp"
+feature_image: "assets/cover1.webp"
 ---
 
 Here is a non-exhaustive list of my past roles and qualifications.

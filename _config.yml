@@ -61,7 +61,7 @@ navigation_header:
 - title: Experience
   url: experience/
 - title: Blog
-  url: /
+  url: Blog/
 
 # navigation_footer:
 # - title: Created by Jessica Furber

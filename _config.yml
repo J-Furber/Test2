@@ -60,6 +60,8 @@ navigation_header:
   url: /
 - title: Experience
   url: experience/
+- title: Presentations
+  url: presentations/
 - title: Blog
   url: blog/
 

@@ -1,4 +1,4 @@
-remote_theme: daviddarnes/alembic@main
+# remote_theme: daviddarnes/alembic@main
 
 # Site configuration
 # 1. Files excluded from Jekyll builds
@@ -51,6 +51,7 @@ title: "Jessica Furber"
 description: "Personal Website"
 repo: "https://github.com/J-Furber/_"
 email: "jfurber23@gmail.com"
+theme: jekyll-theme-cayman
 
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
@@ -83,3 +84,7 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+
+math: true
+kramdown:
+  math_engine: mathjax
